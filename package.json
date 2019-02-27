@@ -1,6 +1,6 @@
 {
   "name": "@ionic/eslint-plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ESLint plugin for Ionic with recommended configurations.",
   "main": "index.js",
   "author": "Ionic <hi@ionicframework.com>",

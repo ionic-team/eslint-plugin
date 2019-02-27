@@ -31,7 +31,7 @@ module.exports = {
     },
   },
   plugins: ['@ionic'],
-  extends: ['plugin:@ionic/recommended'], // or use plugin:@ionic/strict
+  extends: ['plugin:@ionic/recommended'], // or use `plugin:@ionic/strict`
   rules: {
     // additional rule configuration
   }
@@ -40,5 +40,6 @@ module.exports = {
 
 #### Flavors
 
-* `plugin:@ionic/recommended`: at the very least, these are recommended rules
-* `plugin:@ionic/strict`: recommended, but stricter set of rules
+* `plugin:@ionic/crucial`: Builds on top of `@typescript-eslint/recommended` and `eslint:recommended`.
+* `plugin:@ionic/recommended`: Recommended set of rules.
+* `plugin:@ionic/strict`: Stricter set of rules for very consistent code. Good for new projects.

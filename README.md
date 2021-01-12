@@ -1,3 +1,9 @@
+> ## 🚨 DEPRECATED 🚨
+>
+> Ionic, Capacitor, and Stencil projects are now using the following Pretter + ESLint configs:
+> - https://github.com/ionic-team/prettier-config
+> - https://github.com/ionic-team/eslint-config
+
 # @ionic/eslint-plugin
 
 Common ESLint rules & preferences for Ionic.
